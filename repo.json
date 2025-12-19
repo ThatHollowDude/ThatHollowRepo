@@ -1,0 +1,9 @@
+{
+    "name": "ThatHollowDude's Repo",
+    "iconUrl": "https://raw.githubusercontent.com/ThatHollowDude/ThatHollowRepo/refs/heads/main/icons/AUG6F.png",
+    "description": "ThatHollowDude Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      " https://raw.githubusercontent.com/ThatHollowDude/ThatHollowRepo/builds/plugins.json"
+    ]
+}
